@@ -1,7 +1,7 @@
 # Anroid_shortcut
 안드로이드 개발 자주 쓰는 단축키 정리
 
-#### Citrl + B
+#### Ctrl + B
 ```
 Activity에서 layout으로 갈때 setContentView의 R.layout ~위에서 ctrl + B를 누르면 해당하는
 layout파일로 간다.
